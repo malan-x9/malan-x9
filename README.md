@@ -20,11 +20,15 @@ const Malan = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C","Java"],
   askMeAbout: ["web dev", "MERN Stack", "Python", ],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Tailwind Css", "React Js", "Vite"],
-      backend: ["Node.Js", "Python"],
-      database: ["MongoDB"]
-  }
+  Web Development : [
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
+        "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
+                        "MySQL", "React", "Angular",  "Bootstrap" ]
+    ],
+  Native App Development : [
+        "Languages" : ["HTML", "XML", "JAVA", "TypeScript",  ] ,
+        "Frameworks & Tools" : ["Angular",  "Android Studio", "Google APIs"]
+    ]
 }
 ```
 
